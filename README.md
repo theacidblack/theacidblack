@@ -9,10 +9,10 @@ I'm a passionate developer and **self-hosting fan** who loves building, optimizi
 I rely on a powerful suite of self-hosted, quantized models to automate and assist my development process. Here is my current daily-driver setup:
 
 *   **Qwen3 Coder Next** *(80b a3b MoE - 128k context)*
-    *   **Role:** Main Code Writer 💻
+    *   **Role:** Main Code Writer
 *   **Qwen3.6 Thinking** *(35b a3b MTP MoE - 128k context)*
-    *   **Role:** Main Planner & All-around Model 📋
+    *   **Role:** Main Planner & All-around Model
 *   **Qwen AgentWorld** *(35b a3b MoE - 128k context)*
-    *   **Role:** Experimental & Testing 🧪
+    *   **Role:** Experimental & Testing
 
 ---
