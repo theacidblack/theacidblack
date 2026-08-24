@@ -1,1 +1,1 @@
-I love selfhosting.
+I love self-hosting.
